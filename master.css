@@ -1,0 +1,77 @@
+.bg
+{
+width:25rem;
+height:30rem;
+position:absolute;
+right: 10px;
+top: 10px;
+}
+
+.curve
+{
+width:30rem;
+height:12rem;
+position:absolute;
+left: 0px;
+bottom: 0px;
+}
+
+.quotes
+{
+  width:7rem;
+  height:7rem;
+  position: absolute;
+  left:200px;
+  top:100px;
+
+
+}
+.testimonials
+{
+width:60rem;
+height:35rem;
+background-color:white;
+position: absolute;
+left:200px;
+right:70px;
+bottom:20px;
+top:70px;
+
+}
+
+.tanya{
+  width:17rem;
+  height:20rem;
+  float: right;
+}
+
+.carousel-item
+{
+  width:800px;
+  height:600px;
+  margin:auto;
+  position:relative;
+  left:100px;
+   }
+.text{
+  width: 500px;
+  height: 100px;
+  position: relative;
+  top:150px;
+  font-size:20px;
+  font-family : 'Inter', sans-serif;
+  text-align: left;
+  line-height:1.5;
+}
+body{
+  background-image: url(images/stars-pattern.png);
+}
+.bottom{
+  position:absolute;
+  bottom: 0px;
+  left: 550px;
+  color: white;
+}
+.gray{
+  color: gray;
+}
